@@ -1,18 +1,12 @@
 ### Hi there 👋
-###### 🌱 I’m currently learning Swift for being an iOS developer
 
-<img src="/72BD43F7-2A50-4FCF-A24D-83B9F939D9B3_1_201_a.jpeg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<!--
-**nyeok98/nyeok98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="/72BD43F7-2A50-4FCF-A24D-83B9F939D9B3_1_201_a.jpeg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="dad and son"></img><br/>
 
-Here are some ideas to get you started:
+##### _Above photo is so mush about me._ 
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+###### 🌱 majoring in __CS__ and __jornalism__
+###### 🌱 learning __Swift__ currently
+###### 🔭 working on __EL.Co__ for iOS developer
