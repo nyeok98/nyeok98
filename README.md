@@ -1,6 +1,7 @@
 ### Hi there 👋
-#### 🌱 I’m currently learning Swift for being an iOS developer
+###### 🌱 I’m currently learning Swift for being an iOS developer
 
+<img src="/72BD43F7-2A50-4FCF-A24D-83B9F939D9B3_1_201_a.jpeg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 <!--
 **nyeok98/nyeok98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
