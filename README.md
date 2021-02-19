@@ -9,4 +9,4 @@
 
 ###### 🌱 majoring in __CS__ and __jornalism__
 ###### 🌱 learning __Swift__ currently
-###### 🔭 working on __EL.Co__ for iOS developer
+###### 🔭 working for __EL.Co__ as an iOS developer
