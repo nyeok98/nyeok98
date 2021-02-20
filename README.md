@@ -10,3 +10,6 @@
 ###### 🌱 majoring in __CS__ and __jornalism__
 ###### 🌱 learning __Swift__ currently
 ###### 🔭 working for __EL.Co__ as an iOS developer
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyeok98&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
