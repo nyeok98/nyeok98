@@ -7,9 +7,8 @@
 
 #### Language & Platform
 
-<img src="https://img.shields.io/badge/Swift-ff611b?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/JS-ffc924?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-044981?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-999999?style=flat-square&logo=cplusplus&logoColor=white"/></br>
-<img src="https://img.shields.io/badge/React.js-3d85c6?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-be52e9?style=flat-square&logo=sass&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React.js-3d85c6?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-be52e9?style=flat-square&logo=sass&logoColor=white"/></br>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JS-ffc924?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-044981?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-999999?style=flat-square&logo=cplusplus&logoColor=white"/>
 ***
 
 ###### 🌱 majoring in __CS__ and __jornalism__
